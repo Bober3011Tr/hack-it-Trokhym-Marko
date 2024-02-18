@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding:0;
+}
+section{
+	display:flex;
+	margin: 20px
+}
+.king{
+	justify-content:center;
+	align-items: center;
+}
+.hakuna__text{
+	align-self: flex-end;
+}
+.hakuna__poem{
+	border-right: 2px solid;
+	border-bottom: 2px solid;
+	padding: 20px;
+	text-align: center;
+}
+.hakuna__text p {
+	border-top: 2px solid;
+	border-left:2px solid;
+	padding:20px;
+}
+.hakuna__poem
+.hakuna__text{
+	margin:20px;
+}
+.greeting{
+	margin-bottom: -130px;
+}
+.greeting_q{
+	
+}
